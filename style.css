@@ -610,11 +610,7 @@ a {
 	position: relative;
 	height: 430px;
 }
-.map img{
-	position: absolute;
-	top: 0;
-	left: 0;
-}
+
 .map .map-iframe {
 	position: absolute;
 	top: 0;
