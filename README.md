@@ -15,4 +15,4 @@
 
 Ниже представляю превью моего сайта для быстрого просмотра:
 
-<a href="https://ibb.co/FHvTNdv"><img src="https://i.ibb.co/KKZvR8Z/Gllasy-rebrum192000-github-io.png" alt="Gllasy-rebrum192000-github-io" border="0"></a>
+<a href="https://ibb.co/GCvNDVS"><img src="https://i.ibb.co/JrRgTzJ/Gllasy-rebrum192000-github-io.png" alt="Gllasy-rebrum192000-github-io" border="0"></a>
